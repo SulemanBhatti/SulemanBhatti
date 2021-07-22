@@ -35,9 +35,9 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/SulemanBhatti/sulemanbhatti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanbhatti&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulemanbhatti&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe" alt="Suleman's GitHub Stats" />
 </a>
+<h5>Company Account (public contributions only, https://github.com/MTBC-GO-SA398)</h5>
 <a href="https://github.com/SulemanBhatti/sulemanbhatti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulemanbhatti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Suleman's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MTBC-GO-SA398&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe" alt="Suleman's GitHub Stats" />
 </a>
-
