@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning new JS frameworks and libraries
 - 👯 I’m looking to collaborate on opensource and github
-- 🤔 I’m looking for help with data structures and algorithms
+- 🤔 I’m looking for help with Blockchain and Web 3.0
 - 💬 Ask me about Web development
 - ⚡ Fun fact: Apart from programming I am fitness geek.
 
