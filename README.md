@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning new JS frameworks and libraries
 - 👯 I’m looking to collaborate on opensource and github
 - 🤔 I’m looking for contribution with Blockchain and Web 3.0
-- 💬 Ask me about Web development
+  - 💬 Ask me about Fullstack development
 - ⚡ Fun fact: Apart from programming I am fitness geek.
 
 
